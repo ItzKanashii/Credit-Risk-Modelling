@@ -5,7 +5,7 @@ import pandas as pd
 
 
 def clean_data(raw_data):
-    """Apply the predefined Stage 2 cleaning rules.
+    """Apply the predefined cleaning rules used in Notebook 02.
 
     Returns the cleaned DataFrame, an action log, and observed cleaning metrics.
     MonthlyIncome is imputed from observed non-zero values after identifier,

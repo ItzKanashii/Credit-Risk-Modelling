@@ -1,4 +1,4 @@
-# Credit Risk Modelling with Logistic Regression
+# Credit Risk Modelling Using Logistic Regression
 
 This project fits an interpretable logistic regression to estimate the probability of serious delinquency within two years using the supplied borrower dataset. The target is `SeriousDlqin2yrs`. The model estimates Probability of Default (PD); it does not estimate Expected Loss, Loss Given Default (LGD), or Exposure at Default (EAD).
 
