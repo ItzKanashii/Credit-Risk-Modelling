@@ -2,7 +2,7 @@ numpy
 pandas
 scipy
 statsmodels
-scikit-learn
+scikit-learn>=1.8
 matplotlib
 jupyter
 ipykernel

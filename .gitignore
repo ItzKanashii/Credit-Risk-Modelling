@@ -10,9 +10,7 @@ __pycache__/
 
 # Local datasets and generated model
 data/raw/*
-!data/raw/.gitkeep
 data/processed/*
-!data/processed/.gitkeep
 models/*.pkl
 
 # OS metadata
